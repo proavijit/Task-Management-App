@@ -27,10 +27,10 @@ export default function ClassOne() {
               </div>
             </td>
             <td className="p-5 text-sm md:text-xl text-center">
-              {Students.Percentage}
+              {Students.Scores}
             </td>
             <td className="p-5 text-sm md:text-xl text-center">
-              {Students.Scores}
+              {Students.Percentage}
             </td>
           </tr>
         </>
